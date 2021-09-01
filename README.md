@@ -1,2 +1,2 @@
 # Module3
-Challenge Module 3
+Module 3 Assignment
