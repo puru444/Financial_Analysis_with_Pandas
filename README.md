@@ -1,2 +1,2 @@
 Financial Analysis with Pandas
-- Crypto Arbitrage
+- Crypto Currencies Arbitrage
