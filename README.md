@@ -1,2 +1,2 @@
-Financial Analysis with Pandas
-- Crypto Currencies Arbitrage
+## Financial Analysis with Pandas
+CASE STUDY: Crypto Currencies Arbitrage
